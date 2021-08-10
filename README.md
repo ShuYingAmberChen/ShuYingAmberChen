@@ -17,9 +17,9 @@
 &nbsp;
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages: Python | R | SQL | Java | C++ | Matlab
-- 💼 &nbsp; Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop |
-- 🛢 &nbsp; Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
-- 🛠nbsp; Machine learning algorithms: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machines, K-means Clustering, Guassian Mixture Model, PCA
+- 💻 Languages: Python | R | SQL | Java | C++ | Matlab
+- 💼 Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop |
+- 🛢 Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
+- 🛠 Machine learning algorithms: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machines, K-means Clustering, Guassian Mixture Model, PCA
 
 
