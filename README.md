@@ -14,6 +14,7 @@
 - 😄 Looking for a data scientist opportunity to deliver impact for a game-changing organization.   
 - ⚡ Motto: They sky is not the limit. Your mind is.
 
+&nbsp;
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Languages: Python | R | SQL | Java | C++ | Matlab
