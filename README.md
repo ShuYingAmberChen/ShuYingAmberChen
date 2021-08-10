@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/hello.gif" width="60%">
   <br><br>
-  <samp>
+  <h2>
     Hi👋, I'm Amber Chen. 
-  </samp>
+  </h2>
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
