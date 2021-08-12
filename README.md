@@ -25,4 +25,8 @@
 &nbsp;
 <h3>🏆 My Accomplishments </h3>
 
-- 
+- [Flight Delay Prediction](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Flight_delay_prediction)
+- [Random Acts of Pizza](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Random_Acts_Of_Pizza)
+- [U.S. Crime Rate](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/US_Crime_Rate/Campos_Chen_Drever_Han_Lab_3.pdf)
+- [Space Shuttle Challenger Accident](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/Space_Shuttle/MichaelBollig_AmberChen_JeffreyDay_Lab1%20(2).pdf)
+- [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
