@@ -9,7 +9,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 I’m currently studying Data Science at UC Berkeley
-- 🔭 I'm also an Associate Portfolio Manager at TD Asset Management
+- 🔭 I'm also a Portfolio Manager at TD Asset Management
 - 🌱 Experienced in developing analytics applications and generating insights from statistics.
 - 😄 Looking for a data scientist opportunity to deliver impact for a game-changing organization.   
 - ⚡ Motto: They sky is not the limit. Your mind is.
