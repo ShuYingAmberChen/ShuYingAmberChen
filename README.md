@@ -30,6 +30,7 @@
 - [U.S. Crime Rate](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/US_Crime_Rate/Campos_Chen_Drever_Han_Lab_3.pdf)
 - [Space Shuttle Challenger Accident](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/Space_Shuttle/MichaelBollig_AmberChen_JeffreyDay_Lab1%20(2).pdf)
 - [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
+- [International World Trade Dashboard](https://w209-team-4.herokuapp.com)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
