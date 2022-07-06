@@ -16,12 +16,14 @@
 &nbsp;
 <h3>🏆 My Projects </h3>
 
-- [PageWise An AI-powered document manager](https://site123103.nicepage.io/Home.html) :point_left: Check out our product website here!
+- [PageWise, An AI-powered document manager](https://site123103.nicepage.io/Home.html) :point_left: Check out our product website here!
   - As a group of 4 data scientist, we are developing an application using machine learning models and NLP to classify thousands of documents into user-defined categories and help corporate users to manage and search documents. Our objective is to enhance team productivity, improve corporate governance and reduce file storage cost.
-  <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/W210%20Capstone%20Project%20-%20Week%208%20Update%20-%20Team%205.jpg" width = 70%>
+ 
+  <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/W210%20Capstone%20Project%20-%20Week%208%20Update%20-%20Team%205.jpg" width = 80%>
   
 - [Flight Delay Prediction](https://github.com/ShuYingAmberChen/Machine-learning-projects/blob/main/Flight_delay_prediction/Team%2011%20Final%20Project%20Presentation.pdf) :airplane:
   - How likely is your flight to delay? We built a flight delay prediction model powered by XGBoost to predict whether a flight will be delayed given 2 hours before scheduled departure time.
+  
   <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/013_Tokyo_Narita_International_Airport%2C_Japan_-_%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E8%88%AA%E7%A9%BA.jpg" width = 70%>
   
 - [Random Acts of Pizza](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Random_Acts_Of_Pizza) :pizza:
@@ -29,7 +31,8 @@
 
 - [International World Trade Dashboard](https://w209-team-4.herokuapp.com) :point_left: Check out our product website here!
   - We built a data visualization website to tell insights from data on international trade relationships in recent history
- 
+  <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/WeChat%20Screenshot_20220706144731.png" width = 100%>
+  
 &nbsp;
 <h3>:blue_book: More Statistics Projects</h3>
 
