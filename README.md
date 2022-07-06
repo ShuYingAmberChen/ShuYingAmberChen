@@ -24,7 +24,7 @@
 &nbsp;
 <h3>🏆 My Projects </h3>
 
-- [PageWise, An AI-powered document manager](https://site123103.nicepage.io/Home.html) :point_left: Check out our product website here!
+<h4>[PageWise, An AI-powered document manager](https://site123103.nicepage.io/Home.html) :point_left: Check out our product website here! </h4>
   - As a group of 4 data scientist, we are developing an application using machine learning models and NLP to classify thousands of documents into user-defined categories and help corporate users to manage and search documents. Our objective is to enhance team productivity, improve corporate governance and reduce file storage cost.
  
   <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/W210%20Capstone%20Project%20-%20Week%208%20Update%20-%20Team%205.jpg" width = 80%>
