@@ -15,7 +15,8 @@
 
 &nbsp;
 <h3>🏆 My Projects </h3>
-- [PageWise](https://site123103.nicepage.io/Home.html):point_left:An AI-powered document manager
+
+- [PageWise](https://site123103.nicepage.io/Home.html) :point_left: An AI-powered document manager
 <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/W210%20Capstone%20Project%20-%20Week%208%20Update%20-%20Team%205.jpg" width = 40%>
   - As a group of 4 data scientist, we are developing an application using machine learning models and NLP to classify thousands of documents into user-defined categories and help corporate users to manage and search documents. Our objective is to enhance team productivity, improve corporate governance and reduce file storage cost.
   
@@ -26,9 +27,10 @@
   - On Reddit forum, you may get a free pizza delivered to your door by asking for kindness on the Random Acts of Pizza community. How likely will you receive kindness? Using machine learning models, NLP and PCA, we analyzed historical posts, explored features that identify the likeliness of receiving kindness, and built a prediction model.
 
 - [International World Trade Dashboard](https://w209-team-4.herokuapp.com)
- -  We built a data visualization website to tell insights from data on international trade relationships in recent history
+  - We built a data visualization website to tell insights from data on international trade relationships in recent history
  
-More Statistics Projects:
+&nbsp;
+<h3>:blue_book: More Statistics Projects</h3>
 - [U.S. Crime Rate](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/US_Crime_Rate/Campos_Chen_Drever_Han_Lab_3.pdf)
 - [Space Shuttle Challenger Accident](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/Space_Shuttle/MichaelBollig_AmberChen_JeffreyDay_Lab1%20(2).pdf)
 - [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
