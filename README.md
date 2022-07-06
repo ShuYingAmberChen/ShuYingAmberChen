@@ -11,8 +11,27 @@
 - 🎓 I’m currently studying Data Science at UC Berkeley
 - 🔭 I'm also a Portfolio Manager at TD Asset Management
 - 🌱 Experienced in developing analytics applications and generating insights from statistics.
-- 😄 Looking for a data scientist opportunity to deliver impact for a game-changing organization.   
-- ⚡ Motto: They sky is not the limit. Your mind is.
+- ⚡ Motto: They sky is not the limit. My mind is.
+
+&nbsp;
+<h3>🏆 My Projects </h3>
+- [PageWise - A AI-powered document manager](https://site123103.nicepage.io/Home.html)
+  - As a group of 4 data scientist, we are developing an application using machine learning models and NLP to classify thousands of documents into user-defined categories and help corporate users to manage and search documents. Our objective is to enhance team productivity, improve corporate governance and reduce file storage cost.
+  
+- [Flight Delay Prediction](https://github.com/ShuYingAmberChen/Machine-learning-projects/blob/main/Flight_delay_prediction/Team%2011%20Final%20Project%20Presentation.pdf)
+  - How likely is your flight to delay? We built a flight delay prediction model powered by XGBoost to predict whether a flight will be delayed given 2 hours before scheduled departure time.
+
+- [Random Acts of Pizza](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Random_Acts_Of_Pizza)
+  - On Reddit forum, you may get a free pizza delivered to your door by asking for kindness on the Random Acts of Pizza community. How likely will you receive kindness? Using machine learning models, NLP and PCA, we analyzed historical posts, explored features that identify the likeliness of receiving kindness, and built a prediction model.
+
+- [International World Trade Dashboard](https://w209-team-4.herokuapp.com)
+ -  We built a data visualization website to tell insights from data on international trade relationships in recent history
+ 
+More Statistics Projects:
+- [U.S. Crime Rate](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/US_Crime_Rate/Campos_Chen_Drever_Han_Lab_3.pdf)
+- [Space Shuttle Challenger Accident](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/Space_Shuttle/MichaelBollig_AmberChen_JeffreyDay_Lab1%20(2).pdf)
+- [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
+
 
 &nbsp;
 <h3>🛠 Tech Stack</h3>
@@ -21,16 +40,6 @@
 - 💼 Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop
 - 🛢 Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
 - 🛠 Machine learning algorithms: Logistic Regression | Decision Tree | Random Forest | Gradient Boosting Machines | K-means Clustering | Guassian Mixture Model | PCA
-
-&nbsp;
-<h3>🏆 My Accomplishments </h3>
-
-- [Flight Delay Prediction](https://github.com/ShuYingAmberChen/Machine-learning-projects/blob/main/Flight_delay_prediction/Team%2011%20Final%20Project%20Presentation.pdf)
-- [Random Acts of Pizza](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Random_Acts_Of_Pizza)
-- [U.S. Crime Rate](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/US_Crime_Rate/Campos_Chen_Drever_Han_Lab_3.pdf)
-- [Space Shuttle Challenger Accident](https://github.com/ShuYingAmberChen/statistics-projects/blob/main/labs/Space_Shuttle/MichaelBollig_AmberChen_JeffreyDay_Lab1%20(2).pdf)
-- [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
-- [International World Trade Dashboard](https://w209-team-4.herokuapp.com)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
