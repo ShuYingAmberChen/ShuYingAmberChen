@@ -31,8 +31,8 @@
   
 - [Flight Delay Prediction](https://github.com/ShuYingAmberChen/Machine-learning-projects/blob/main/Flight_delay_prediction/Team%2011%20Final%20Project%20Presentation.pdf) :airplane:
   - How likely is your flight to delay? We built a flight delay prediction model powered by XGBoost to predict whether a flight will be delayed given 2 hours before scheduled departure time.
-  
-  <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/013_Tokyo_Narita_International_Airport%2C_Japan_-_%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E8%88%AA%E7%A9%BA.jpg" width = 70%>
+&nbsp;
+  <img src="https://github.com/ShuYingAmberChen/ShuYingAmberChen/blob/main/img/013_Tokyo_Narita_International_Airport%2C_Japan_-_%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E8%88%AA%E7%A9%BA.jpg" width = 50%>
   
 - [Random Acts of Pizza](https://github.com/ShuYingAmberChen/Machine-learning-projects/tree/main/Random_Acts_Of_Pizza) :pizza:
   - On Reddit forum, you may get a free pizza delivered to your door by asking for kindness on the Random Acts of Pizza community. How likely will you receive kindness? Using machine learning models, NLP and PCA, we analyzed historical posts, explored features that identify the likeliness of receiving kindness, and built a prediction model.
