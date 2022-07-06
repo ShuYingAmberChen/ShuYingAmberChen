@@ -14,6 +14,14 @@
 - ⚡ Motto: They sky is not the limit. My mind is.
 
 &nbsp;
+<h3>🛠 Tech Stack</h3>
+
+- 💻 Languages: Python | R | SQL | Java | C++ | Matlab
+- 💼 Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy, NLTK) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop
+- 🛢 Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
+- 🛠 Machine learning algorithms: Logistic Regression | Decision Tree | Random Forest | Gradient Boosting Machines | K-means Clustering | Guassian Mixture Model | PCA | Natural Language Processing | Text Summarization
+
+&nbsp;
 <h3>🏆 My Projects </h3>
 
 - [PageWise, An AI-powered document manager](https://site123103.nicepage.io/Home.html) :point_left: Check out our product website here!
@@ -43,13 +51,6 @@
 - [Understanding User Behavior](https://github.com/ShuYingAmberChen/data-engineering/tree/master/project-3-ShuYingAmberChen)
 
 
-&nbsp;
-<h3>🛠 Tech Stack</h3>
-
-- 💻 Languages: Python | R | SQL | Java | C++ | Matlab
-- 💼 Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop
-- 🛢 Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
-- 🛠 Machine learning algorithms: Logistic Regression | Decision Tree | Random Forest | Gradient Boosting Machines | K-means Clustering | Guassian Mixture Model | PCA | Natural Language Processing
 
 <h3> 🤝🏻 Connect with Me </h3>
 
