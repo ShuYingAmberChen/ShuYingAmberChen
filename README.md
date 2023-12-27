@@ -8,16 +8,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 I’m currently studying Data Science at UC Berkeley
-- 🔭 I'm also a Portfolio Manager at TD Asset Management
-- 🌱 Experienced in developing analytics applications and generating insights from statistics.
-- ⚡ Motto: They sky is not the limit. My mind is.
+- 🔭 I'm currently a data scientist at TD Bank
+- 🎓 I'm also an alumna of University of California - Berkeley, and an alumna of University of Waterloo
+- 🌱 Experienced in adopting ML in business use cases,developing analytics applications and generating insights from statistics.
 
 &nbsp;
 <h3>🛠 Tech Stack</h3>
 
 - 💻 Languages: Python | R | SQL | Java | C++ | Matlab
-- 💼 Data science toolkits: Python (NumPy, Pandas, Pyspark, Matplotlib, Scikit-learn, SciPy, NLTK) | R (ggplot2, fpp3, dplyr, fpp3, forecast) | Hadoop
+- 💼 Data science toolkits: Python (Pandas, Pyspark, Polars, Matplotlib, Scikit-learn, SciPy, NLTK) | R | Hadoop
 - 🛢 Big data analytics: Amazon AWS | Google Cloud Platform | Azure Databricks
 - 🛠 Machine learning algorithms: Logistic Regression | Decision Tree | Random Forest | Gradient Boosting Machines | K-means Clustering | Guassian Mixture Model | PCA | Natural Language Processing | Text Summarization
 
